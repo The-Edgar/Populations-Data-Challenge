@@ -35,3 +35,10 @@ The data is provided in a [csv file](https://datahub.io/core/population-city/r/u
 * Dashboard link/access
 * Simple report of the challenge solution and results obtained
 * Any other relevant information you deem important
+
+
+## Edit by Edgar on Nov 27
+
+Python cleaning script is available in the notebook: Exploratory Data Analysis and Cleaning.ipynb
+Populations_data_exploratory_profile.html is a on exploratory profile of the whole dataset before cleaning.
+Interactive report is available [here](https://datastudio.google.com/u/0/reporting/1qXpSwr99bAYhKVUu6LBQiT8MQlQ3egv1/page/UkP7). 
